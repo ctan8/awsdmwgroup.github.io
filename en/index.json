@@ -1,0 +1,43 @@
+[
+{
+	"uri": "/en/aws-modules/",
+	"title": "Aws-modules",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/cloudtrail/",
+	"title": "CloudTrail",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/scp/",
+	"title": "Service Control Policies",
+	"tags": [],
+	"description": "",
+	"content": "Service control policies (SCPs) are one type of policy that you can use to manage your organization. SCPs offer central control over the maximum available permissions for all accounts in your organization, allowing you to ensure your accounts stay within your organization\u0026rsquo;s access control guidelines.\n"
+},
+{
+	"uri": "/en/",
+	"title": "DMW AWS platform",
+	"tags": [],
+	"description": "",
+	"content": "This is currently testing only\n"
+},
+{
+	"uri": "/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
