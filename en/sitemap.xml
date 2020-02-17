@@ -4,11 +4,87 @@
   
   <url>
     <loc>/en/aws-modules/</loc>
-    <lastmod>2020-02-13T10:11:17+00:00</lastmod>
+    <lastmod>2020-02-17T14:27:41+00:00</lastmod>
   </url>
   
   <url>
     <loc>/en/environments/</loc>
+    <lastmod>2020-02-17T14:30:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/environments/deployments/</loc>
+    <lastmod>2020-02-17T14:30:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/environments/log-archives/</loc>
+    <lastmod>2020-02-17T14:30:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/environments/master/</loc>
+    <lastmod>2020-02-17T14:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/environments/policy-staging/</loc>
+    <lastmod>2020-02-17T14:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/vpc-baseline/</loc>
+    <lastmod>2020-02-17T14:27:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/security-hub/</loc>
+    <lastmod>2020-02-17T14:27:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/s3/</loc>
+    <lastmod>2020-02-17T14:27:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/organization/</loc>
+    <lastmod>2020-02-17T14:27:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/guardduty/</loc>
+    <lastmod>2020-02-17T14:27:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/config/</loc>
+    <lastmod>2020-02-17T14:26:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/cloudwatch/</loc>
+    <lastmod>2020-02-17T14:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/billing-alert/</loc>
+    <lastmod>2020-02-17T14:26:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/aws-modules/account-creation/</loc>
+    <lastmod>2020-02-17T14:26:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/environments/security/</loc>
+    <lastmod>2020-02-14T17:18:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/environments/sandpit/</loc>
+    <lastmod>2020-02-14T17:18:31+00:00</lastmod>
   </url>
   
   <url>

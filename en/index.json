@@ -14,6 +14,111 @@
 	"content": "Accounts Write some documentation about AWS accounts here\n"
 },
 {
+	"uri": "/en/environments/deployments/",
+	"title": "Deployments",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/environments/log-archives/",
+	"title": "Log Archives",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/environments/master/",
+	"title": "Master",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/environments/policy-staging/",
+	"title": "Policy Staging",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/vpc-baseline/",
+	"title": "Vpc Baseline",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/security-hub/",
+	"title": "Security Hub",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/s3/",
+	"title": "S3",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/organization/",
+	"title": "Organization",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/guardduty/",
+	"title": "Guardduty",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/config/",
+	"title": "Config",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/cloudwatch/",
+	"title": "Cloudwatch",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/billing-alert/",
+	"title": "Billing Alert",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/aws-modules/account-creation/",
+	"title": "Account Creation",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/environments/security/",
+	"title": "Security",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/environments/sandpit/",
+	"title": "Sandpit",
+	"tags": [],
+	"description": "",
+	"content": "This is the Sandpit account\n"
+},
+{
 	"uri": "/en/aws-modules/cloudtrail/",
 	"title": "CloudTrail",
 	"tags": [],
