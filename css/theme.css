@@ -107,10 +107,10 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     box-shadow: inset 0 1px 3px rgba(0,0,0,.06),0 0 5px rgba(0,169,218,.7)
 }
 #header-wrapper {
-    background: #322A38;
+    background: #000000;
     color: #fff;
     text-align: center;
-    border-bottom: 4px solid #9c6fb6;
+    border-bottom: 2px solid #FFFF00;
     padding: 1rem;
 }
 #header a {
@@ -126,8 +126,8 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 .searchbox {
     margin-top: 1rem;
     position: relative;
-    border: 1px solid #915eae;
-    background: #764890;
+    border: 1px solid #FFFF00;
+    background: #000000;
     border-radius: 4px;
 }
 .searchbox label {
@@ -178,7 +178,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     }
 }
 #sidebar {
-    background-color: #322A38;
+    background-color: #000000;
     position: fixed;
     top: 0;
     width: 300px;
@@ -1127,6 +1127,7 @@ pre .copy-to-clipboard:hover {
 
 #sidebar #shortcuts h3 {
     font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-size: 25px;
     color: white ;
     margin-top:1rem;
     padding-left: 1rem;

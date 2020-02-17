@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo 主题的 Learn 文档</title>
+    <title>Hugo Learn Documentation</title>
     <link>/zh/</link>
-    <description>Recent content on Hugo 主题的 Learn 文档</description>
+    <description>Recent content on Hugo Learn Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     

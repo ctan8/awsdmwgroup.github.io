@@ -1,10 +1,17 @@
 [
 {
 	"uri": "/en/aws-modules/",
-	"title": "Aws-modules",
+	"title": "AWS Modules",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "Chapter 1 AWS Modules Write your documentation about AWS modules here\n"
+},
+{
+	"uri": "/en/environments/",
+	"title": "Accounts",
+	"tags": [],
+	"description": "",
+	"content": "Accounts Write some documentation about AWS accounts here\n"
 },
 {
 	"uri": "/en/aws-modules/cloudtrail/",
@@ -25,7 +32,7 @@
 	"title": "DMW AWS platform",
 	"tags": [],
 	"description": "",
-	"content": "This is currently testing only\n"
+	"content": "This is the documentation for the DMW Group AWS Platform This is currently testing only\n"
 },
 {
 	"uri": "/en/categories/",
