@@ -1,0 +1,169 @@
+[
+{
+	"uri": "/background/",
+	"title": "Background",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/",
+	"title": "AWS Modules",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 1 AWS Modules Write your documentation about AWS modules here\n"
+},
+{
+	"uri": "/environments/",
+	"title": "Accounts",
+	"tags": [],
+	"description": "",
+	"content": "Accounts Write some documentation about AWS accounts here\n"
+},
+{
+	"uri": "/background/aws-landing-zone/",
+	"title": "AWS Landing Zone",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/environments/deployments/",
+	"title": "Deployments",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/environments/log-archives/",
+	"title": "Log Archives",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/environments/master/",
+	"title": "Master",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/environments/policy-staging/",
+	"title": "Policy Staging",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/vpc-baseline/",
+	"title": "Vpc Baseline",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/security-hub/",
+	"title": "Security Hub",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/s3/",
+	"title": "S3",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/organization/",
+	"title": "Organization",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/guardduty/",
+	"title": "Guardduty",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/config/",
+	"title": "Config",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/cloudwatch/",
+	"title": "Cloudwatch",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/billing-alert/",
+	"title": "Billing Alert",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/account-creation/",
+	"title": "Account Creation",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/environments/security/",
+	"title": "Security",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/environments/sandpit/",
+	"title": "Sandpit",
+	"tags": [],
+	"description": "",
+	"content": "This is the Sandpit account\n"
+},
+{
+	"uri": "/aws-modules/cloudtrail/",
+	"title": "CloudTrail",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/aws-modules/service-control-policies/",
+	"title": "Service Control Policies",
+	"tags": [],
+	"description": "",
+	"content": "Service control policies (SCPs) are one type of policy that you can use to manage your organization. SCPs offer central control over the maximum available permissions for all accounts in your organization, allowing you to ensure your accounts stay within your organization\u0026rsquo;s access control guidelines.\n"
+},
+{
+	"uri": "/",
+	"title": "DMW AWS platform",
+	"tags": [],
+	"description": "",
+	"content": "This is the documentation for the DMW Group AWS Platform This is currently testing only\n"
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
